@@ -1,2 +1,2 @@
-# Krosse-Krabbe-Caf-
+# Krosse-Krabbe-Café-
 Café mit Krosse Krabbe Theme
